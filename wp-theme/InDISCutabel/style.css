@@ -1,0 +1,405 @@
+/*
+Theme Name: InDISCutabel
+Theme URI: http://www.indiscutabel.de
+Description: A theme based on Discs, Lines and a Monster customized for InDISCutabel corporate identity in 2009.
+Version: 0.1
+Author: Daniel Nüst
+Tags: Ultimate Frisbee, China, Die Wand ist aus!
+*/
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size:100%;
+	font-family: Arial, Helvetica sans-serif;
+	text-align: center;
+}
+
+img {
+	border: none;
+}
+
+/************************************ LINKS ***********************************/
+a:link, a:visited {
+	text-decoration: underline;
+	color: #626262;
+}
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #0066CC;
+}
+
+/********************************* HEADER und MENÜ ****************************/
+div #header {
+	height: 219px;
+	width: 946px;
+	margin: 0 auto;
+	/* background-image: url('images/header-nkt.gif'); */
+	background-image: url('images/header.gif');
+	background-repeat: no-repeat;
+	border-bottom: 1px solid #0066CC;
+}
+
+div #header .homelink {
+	border: 0;
+	margin: 0;
+	width: 944px;
+	height: 218px;
+	display: block;
+}
+
+div #menu {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -22px;
+	right: 10px;
+	float: right;
+	font-size: 1.05em;
+}
+
+.menulist ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	white-space: nowrap;
+}
+
+.menulist li {
+	display: inline;
+	margin-right: 8px;
+}
+
+div #menu a:link, a:visited {
+	text-decoration: none;
+	color: #626262;
+}
+
+div #menu a:hover, a:active {
+	text-decoration: none;
+	color: #0066CC;
+}
+
+div #menu .current_page_item a { 
+	font-weight: bolder;
+	font-color: #0066CC;
+}
+
+
+/************************ WRAPPER und WELCOME *********************************/
+div #wrapper {
+	width: 942px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+div #welcome {
+	margin: 6px auto;
+	font-size: 0.8em;
+	text-align: left;
+	padding: 4px;
+}
+
+.navigation {
+	padding: 10px 0 30px 0;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+
+/********************************* CONTENT ************************************/
+#content {
+	float: left;
+	margin: 0;
+	width: 626px;
+	padding-right: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Trebuchet MS', 'Lucida Grande', Verdana, Arial, Sans-Serif;
+	font-weight: bold;
+}
+
+#wrapper h1, h2 {
+	font-size: 1.2em;
+}
+
+#wrapper h3 {
+	font-size: 1.1em;
+}
+
+#wrapper h4 {
+	font-size: 1.0em;
+}
+
+#content .post {
+	clear: both;
+}
+
+#content .storytitle {
+	padding: 10px 0px 2px 4px;
+	border-bottom: 1px solid #0066CC;
+}
+
+#content .storytitle h1 {
+	font-size: 1.3em;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+#content .storytitle a:link, a:visited {
+	text-decoration: none;
+	color: #000000;
+}
+
+#content .storytitle a:hover, a:active {
+	color: #0066CC;
+}
+
+.storytitlemeta {
+	font-size: .8em;
+	padding: 0 0 0 10px;
+}
+
+.post-edit-link a {
+	text-decoration: none;
+	color: #404040;
+	padding: 0 0 0 10px;
+}
+
+.storymeta {
+	padding: 0 0 0 10px;
+	font-size: .8em;
+}
+
+.storycontent {
+	width: 100%;
+}
+
+.storycomments {
+	padding: 0 0 0 10px;
+	width: 100%;
+	font-size: .8em;
+}
+
+#navigation {
+	position: relative;
+	top: 61px;
+	float: left;
+	font-size: 0.8em;
+}
+
+.slideshowlink, .piclenselink {
+	font-size: 0.8em;
+	margin: 0 0 2px 0;
+}
+
+.commentlist {
+	margin: 0;
+	padding: 0 0 0 10px;
+	list-style-type: none;
+}
+
+.comment-body {
+	padding: 0 0 20px 0;
+}
+
+#respond {
+	clear: both;
+	margin: 10px 0 0 0;
+	padding: 10px 0 0 0;
+}
+
+/******************************** SIDEBAR *************************************/
+#righter {
+	float: right;
+	text-align: left;
+	width: 284px;
+	padding: 0px 4px 0px 12px;
+}
+
+#righter .righter-element {
+	padding: 0 0 0 40px;
+}
+
+#righter .righter-element p {
+	font-size: 0.9em;
+	padding: 0 0 0 4px;
+}
+
+#wasistfrisbeebild {
+	margin: 0 0 0 10px;
+}
+
+#righter .ngg-widget img {
+	border: 0px;
+}
+
+#righter h3, .screen-reader-text {
+	font-size:0.9em;
+	font-weight: bold;
+	border-bottom: 1px solid #0066CC;
+	margin: 18px 0 4px 0;
+	padding: 0 0 0 4px;
+}
+
+#righter .linkcat {
+	font-size: 0.8em;
+}
+
+#righter .linkcat h2 {
+	font-size: 0.9em;
+	padding: 10px 0 2px 40px;
+	margin: 0;
+}
+
+#searchform label {
+	visibility: hidden;
+}
+
+#searchform div {
+	margin: 0;
+	padding: 0 0 0 4px;
+}
+
+#searchform #s {
+	margin: 0 0 0 0;
+	width: 152px;
+}
+
+#searchform #searchsubmit {
+	margin: 0 0 0 0;
+}
+
+#sidebar ul {
+	list-style-type: none;
+}
+
+.archive-ul {
+	padding: 0 0 0 4px;
+}
+
+#archive-select {
+	width: 158px;
+}
+
+#countdown {
+	font-color; #da241c;
+	font-weight: bolder;
+	padding: 0 0 0 4px;
+	text-
+}
+
+.fergcorp_countdownTimer_event_li {
+	list-style-type: none;
+}
+
+#facebook_group {
+	padding: 0 0 0 5px;
+}
+
+/********************************** FOOTER ************************************/
+#footer {
+	clear: both;
+	width: 946px;
+	margin: 0px auto 20px auto;
+	height: 65px;
+	background-image: url('images/footer.gif');
+	background-repeat: no-repeat;
+	font-size: 0.6em;
+}
+
+#footermenu {
+	position: relative;
+	top: 46px;
+	float: right;
+}
+
+#footermenu a:link, a:visited {
+	text-decoration: none;
+	color: #626262;
+}
+
+#footermenu a:hover, a:active {
+	color: #0066CC;
+}
+
+.feedimage {
+	position: relative;
+	top: 2px;
+}
+
+#wordpress {
+	font-size: 0.6em;
+	color: #606060;
+	margin-bottom: 10px;
+}
+
+
+/**** zeug aus dem worpress css was vielleicht mal nützlich sein wird... ******/
+acronym, abbr, span.caps {
+	cursor: help;
+	}
+
+acronym, abbr {
+	border-bottom: 1px dashed #999;
+	}
+
+blockquote {
+	margin: 15px 30px 0 10px;
+	padding-left: 20px;
+	border-left: 5px solid #ddd;
+	}
+
+blockquote cite {
+	margin: 5px 0 0;
+	display: block;
+	}
+
+.hidden {
+	display: none;
+}
+	
+/* Begin Images */
+p img {
+	padding: 0;
+	max-width: 100%;
+	}
+
+/*	Using 'class="alignright"' on an image will (who would've
+	thought?!) align the image to the right. And using 'class="centered',
+	will of course center the image. This is much better than using
+	align="center", being much more futureproof (and valid) */
+
+img.centered {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+img.alignright {
+	padding: 4px;
+	margin: 0 0 2px 7px;
+	display: inline;
+	}
+
+img.alignleft {
+	padding: 4px;
+	margin: 0 7px 2px 0;
+	display: inline;
+	}
+
+.alignright {
+	float: right;
+}
+
+.alignleft {
+	float: left;
+}
+
+

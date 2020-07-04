@@ -1,0 +1,19 @@
+		<div id="footer">
+			<div id="footermenu" class="menulist">
+				<ul>
+					<li><a href="/">Kontakt</a></li>
+					<li><a href="/">Impressum</a></li>
+					<li><a href="/login">Login</a></li>
+					<li><a href="get_bloginfo('rss2_url')">Feed <img src="images/feed.gif" alt="RSS Feed" style="position: relative; top: 2px;"/></a></li>
+				</ul>			
+			</div>
+		</div>
+	
+		<div id="wordpress" role="contentinfo">
+			&copy 2009 InDISCutabel Münster<br /><?php printf(__('%1$s is proudly powered by %2$s', 'InDISCutabel'), get_bloginfo('name'), '<a href="http://wordpress.org/">WordPress</a>'); ?>
+		</div>
+
+		<?php wp_footer(); ?>
+	</div>
+</body>
+</html>

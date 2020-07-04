@@ -1,0 +1,62 @@
+<?php get_header(); ?>
+
+<div id="wrapper">
+	<div id="welcome">
+		<strong>Herzlich Willkommen bei Ultimate Frisbee Münster!</strong><br/>
+		Bei uns kann sich gerne jeder austoben, der Lust hat, mit 175g-Plastikscheiben zu schmeißen, sich die Seele aus dem Leib zu rennen und außerdem noch mit vielen netten und genauso bekloppten Leuten die Zeit zu vertreiben! Wir gehören zum Hochschulsport der WWU Münster und haben sowohl für blutige Anfänger als auch für echte Könner immer Plätze frei und freuen uns, wenn DU uns auch mal besuchen kommst.
+	</div>
+	
+	<div id="content" role="main">
+	
+	<?php if (have_posts()) : ?>
+		<?php while (have_posts()) : the_post(); ?>
+
+			<div class="post" id="post-<?php the_ID(); ?>">
+
+    				<div class="storytitle">
+    					<h3><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php printf(__('Permanent Link to %s', 'kubrick'), the_title_attribute('echo=0')); ?>"><?php the_title(); ?></a></h3><span class="meta"><?php the_time(__('F jS, Y', 'kubrick')) ?> von <?php the_author() ?></span>
+    				</div>
+		
+				<div class="meta"><?php _e("Filed under:"); ?> <?php the_category(',') ?> &#8212; <?php the_tags(__('Tags: '), ', ', ' &#8212; '); ?> <?php the_author() ?> @ <?php the_time() ?> <?php edit_post_link(__('Edit This')); ?>
+				</div>
+
+      				
+				<div class="storycontent">	
+					<?php the_content(__('Read the rest of this entry &raquo;', 'kubrick')); ?>
+				</div>
+			
+				<p class="postmetadata"><?php the_tags(__('Tags:', 'kubrick') . ' ', ', ', '<br />'); ?> <?php printf(__('Posted in %s', 'kubrick'), get_the_category_list(', ')); ?> | <?php edit_post_link(__('Edit', 'kubrick'), '', ' | '); ?>  <?php comments_popup_link(__('No Comments &#187;', 'kubrick'), __('1 Comment &#187;', 'kubrick'), __('% Comments &#187;', 'kubrick'), '', __('Comments Closed', 'kubrick') ); ?></p>
+
+				<div class="feedback">
+					<?php wp_link_pages(); ?>
+					<?php comments_popup_link(__('Comments (0)'), __('Comments (1)'), __('Comments (%)')); ?>
+				</div>
+		
+				<?php comments_template(); // Get wp-comments.php template ?>
+
+    			</div>
+		
+		<?php endwhile; ?>
+			    			
+		<div id="navigation" class="menulist">
+			<ul>
+				<li><a href="#">Ältere Einträge</a></li>
+				<li><a href="#">Neuere Einträge</a></li>
+			</ul>
+		</div>
+		
+		<?php else : ?>
+			<h2 class="center"><?php _e('Not Found', 'kubrick'); ?></h2>
+			<p class="center"><?php _e('Sorry, but you are looking for something that isn&#8217;t here.', 'kubrick'); ?></p>
+			<?php get_search_form(); ?>
+		<?php endif; ?>
+
+	</div>
+	
+	<div id="righter">
+		<?php get_sidebar(); ?>
+	</div>
+	
+</div>
+		
+<?php get_footer(); ?>

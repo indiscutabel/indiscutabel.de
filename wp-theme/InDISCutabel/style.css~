@@ -1,0 +1,241 @@
+/*
+Theme Name: InDISCutabel
+Theme URI: http://www.indiscutabel.de
+Description: A theme based on Discs, Lines and a Monster customized for InDISCutabel corporate identity in 2009.
+Version: 0.1
+Author: Daniel Nüst
+Tags: Ultimate Frisbee, China, Die Wand ist aus
+*/
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size:100%;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+img {
+	border: none;
+}
+
+/************************************ LINKS ***********************************/
+a, a:visited, a:active {
+	text-decoration: underline;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: #0066CC;
+}
+
+/********************************* HEADER und MENÜ ****************************/
+div #header {
+	height: 219px;
+	width: 946px;
+	margin: 0 auto;
+	background-image: url('images/header.gif');
+	background-repeat: no-repeat;
+	border-bottom: 1px solid #0066CC;
+}
+
+div #header .homelink {
+	border: 0;
+	margin: 0;
+	width: ;
+	height:219px;
+	display:block;
+	/* border: 1px solid #ff0000; */
+}
+
+div #menu {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	top: -28px;
+	right: 10px;
+	float: right;
+	font-size: 1.2em;
+	font-family: Tahoma, sans-serif;
+	z-index: 1;
+}
+
+.menulist ul {
+	margin: 0;
+	padding: 0;
+	list-style-type:none;
+	white-space: nowrap;
+}
+
+.menulist li {
+	display: inline;
+	margin-right: 8px;
+}
+
+.menulist li a, a:visited {
+	text-decoration: none;
+	color: #878787;
+}
+
+.menulist li a:hover, a:active {
+	text-decoration: none;
+	color: #0066CC;
+}
+
+/************************ WRAPPER und WELCOME *********************************/
+div #wrapper {
+	width: 942px;
+	margin: 0 auto;
+}
+
+div #welcome {
+	margin: 6px auto;
+	font-size: 0.7em;
+	text-align: left;
+	padding: 4px;
+}
+
+/********************************* CONTENT ************************************/
+div #content {
+	float: left;
+	margin: 0;
+	width: 626px;
+	padding-right: 16px;
+	text-align: left;
+}
+
+div #content .post {
+
+}
+
+div #content .storytitle {
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 10px 0px 2px 4px; 
+	border-bottom: 1px solid #0066CC;
+}
+
+div #content .storytitle h3 {
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+div #content .storytitle a, a:visited, a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+div #content .storytitle a:hover {
+	text-decoration: none;
+	color: #0066CC;
+}
+
+div #navigation {
+	position: relative;
+	top: 61px;
+	float: left;
+	font-size: 0.6em;
+	font-family: Tahoma, sans-serif;
+}
+
+/********************                        **********************************/
+div #righter {
+	float: right;
+	text-align: left;
+	width: 284px;
+	padding: 0px 4px 0px 12px;
+}
+
+.meta {
+	margin-left: 10px;
+	font-size: .65em;
+}
+
+.meta li, ul.post-meta li {
+	display: inline;
+}
+
+.meta ul {
+	display: inline;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.meta, .meta a {
+	color: #808080;
+	font-weight: normal;
+	letter-spacing: 0;
+}
+
+
+/********************************** FOOTER ************************************/
+div #footer {
+	clear: both;
+	width: 946px;
+	margin: 0px auto 20px auto;
+	height: 65px;
+	background-image: url('images/footer.gif');
+	background-repeat: no-repeat;
+	font-size: 0.6em;
+	font-family: Tahoma, sans-serif;
+}
+
+div #footermenu {
+	position: relative;
+	top: 46px;
+	float: right;
+}
+
+div #wordpress {
+	font-size: 0.6em;
+	color: #CCCCCC;
+}
+
+div #wordpress a, a:visited, a:active {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+div #wordpress a:hover {
+	color: #0066CC;
+}
+
+
+/**** zeug aus dem worpress css was vielleicht mal nützlich sein wird... ******/
+acronym, abbr, span.caps {
+	cursor: help;
+	}
+
+acronym, abbr {
+	border-bottom: 1px dashed #999;
+	}
+
+blockquote {
+	margin: 15px 30px 0 10px;
+	padding-left: 20px;
+	border-left: 5px solid #ddd;
+	}
+
+blockquote cite {
+	margin: 5px 0 0;
+	display: block;
+	}
+
+.hidden {
+	display: none;
+	}
+	
+.screen-reader-text {
+     position: absolute;
+     left: -1000em;
+}
+
+
+@import url("style2.css");
+
+
