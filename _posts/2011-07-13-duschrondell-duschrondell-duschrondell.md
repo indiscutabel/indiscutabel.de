@@ -1,0 +1,57 @@
+---
+id: 836
+title: 'Duschrondell, Duschrondell, Duschrondell&#8230;'
+date: 2011-07-13T15:40:05+02:00
+author: china
+layout: post
+
+permalink: /2011/07/duschrondell-duschrondell-duschrondell/
+categories:
+  - DHM
+  - Turnier
+tags:
+  - Aachen
+  - Augsburg
+  - Breuna
+  - Darmstadt
+  - DHM
+  - Dresden
+  - Hannover
+  - Jena
+  - Marburg
+  - Rostock
+  - Teufelskeller
+  - Trier
+  - Würzburg
+---
+Hey Leudde,
+
+die Daheimgebliebenen haben am letzten Wochenende wieder mal einiges bei der DHM in Würzburg verpasst. Unter anderem gehörte dazu die rollende Geburtstagsparty vom im Alter angekommenen Alex auf der Hinfahrt. Mit Bier, Sekt und Kuchen machten wir uns also am Freitagabend auf den Weg. Was ihr nicht verpasst habt, war ein angenehmes Stelldichein im beschaulichen Wilnsdorf, da wir aufgrund des weitreichend bekanntem Stau- und Baustellenaufkommen auf der A3 zwischen Frankfurt und Würzburg die Alternativroute über Kassel genommen haben. Daher hat unsere beeindruckende Flotte, bestehend aus dem schwarzen Partybus (getönte Scheiben im VIP-Bereich!) von AVIS und dem one and only Shortwagen, im nahezu wilnsdorfesken Breuna gehalten damit wir uns mit den notwendigen Fetten versorgen konnten. Für das vernichtende Feedback würde man dort auch noch Rabat auf die Menus bekommen, aber dafür müsste man sich durch die Wirrungen des Online-Formulars kämpfen. Vielleicht nimmt sich Shorty ja mal einen Tag dafür frei…  
+Der Halt in Breuna war aber auch bitter nötig, da <!--more-->es die Gastgeber es nicht für nötig hielten uns mit gutem Wetter, einer Beschilderung zum dunklen Gelände, geschweige denn Getränken oder kaufähiger Nahrung am Freitagabend zu versorgen. Nach kurzer Nacht im Zelt, galt es sich früh anzumelden, da wir unser erstes Spiel um 9.00 Uhr hatten und vorher zum Frühstück noch einen Spaziergang zur Mensa absolvieren mussten. Da ohne Anmeldung keine Essensmarken, ergo kein Frühstück, haben wir blitzartig unsere Studiausweise und die 20 Euro Startgebühr pro Person zusammengekratzt und uns am Tresen angestellt. Der war zunächst nicht besetzt und der dann auftauchende, einzige (!) betont desinteressierte Mitarbeiter gab sich auch alle Mühe den Vorgang zu entschleunigen. Bürokratie muss sein!
+
+  
+Immerhin wurden beim reichhaltigen Frühstück Bestecke und Teller gestellt. Zudem gab es noch Butterbrottüten für lau, was das proviantieren erleichterte. Der Shortmaster versuchte uns dagegen die Vorteile seiner Tupperdosen bildlich zu veranschaulichen. Was die jetzt genau waren, weiß ich nicht mehr, aber es hatte am Ende irgendwie was mit Urin zu tun…  
+Immerhin hatten wir unsere Vorrundenspiele alle auf dem zentralen Turniergelände, sodass uns die Herumreiserei durch Würzburg zunächst erspart blieb. Die andere Hälfte der Sportplätze lag nämlich über Würzburg verteilt. Vor allem die mit dem Zug angereisten Bremer waren nicht ganz davon begeistert nach jedem Spiel den Ort wechseln zu müssen. Da wir ja so nette Leute sind,  liehen wir denen neben unserem Bulli auch einen Chauffeur namens Alex.
+
+Unser erster Gegner war Dresden, das im Vorjahr immerhin Dritter geworden war. Gegen die erfahrene Truppe sahen wir nicht so gut aus. Viele individuelle Fehler und das zu niedrige Tempo in unserem Spiel brachten unsere Offense zum Erliegen. Dresden hatte daher kaum Mühe einen deutlichen Sieg heimzufahren. Als nächstes spielten wir gegen Augsburg, das mit vielen unerfahrenen Spielern angereist war, wie wir in deren ersten Spiel sehen konnten. Also eine machbare Aufgabe (Zitat Benny: Wenn wir gegen die nicht gewinnen, reise ich ab). Da es, wie übrigens das ganze Wochenende über, sehr windig war stellten wir unsere Todeszone, mit der die Schwaben überhaupt nicht klar kamen. Wir gewannen daher souverän mit 7:0. Neben sich selbst haben die Augsburger leider auch unseren Tobi umgerannt, wodurch dieser eine Verletzung am Oberschenkel erlitt und den Rest des Turniers ausfiel. Das einzige Positive für ihn war, dass ihm so das anschließende Spalten leichter fiel.
+
+Danach spielten wir gegen die in augenkrebsgrün gekleideten Trierer. Auch hier klappte es mit der Zone sehr gut und wir konnten erneut den Sieg davon tragen, 6:2. Wundert euch nicht über die niedrigen Endstände, denn die Vorrundenspiele dauerten lediglich 30 Minuten. Unsere Erfolgstaktik stach auch im anschließenden Spiel gegen Rostock, das mit dem gleichen Ergebnis für uns endete. Die Rostocker spielten zwar eine intensive Defense, doch das Mistwetter half uns da ein wenig mit der Zone. Nach einer längeren Pause ging es für uns gegen Hannover um den direkten Einzug ins Achtelfinale. Nach schläfrigem Beginn und 0:2 Rückstand konnten wir wieder an unsere Leistungen von den vorherigen Partien anknüpfen und mit wechselnden Taktiken das Spiel noch drehen und 6:3 gewinnen. Dies bedeutete neben dem sicheren Platz 16 auch das Umgehen eines Relegationsspiels um den Achtelfinaleinzug. Wie unangenehm das sein kann, sahen wir als Dortmund gegen Halle spielte, während wir es uns auf der Tribüne haben gut gehen lassen. Dafür hatten wir uns vorher mit Obst, Bier, Leberkäsebrötchen, Almdudler oder einer Taurin 400 Cola im nächstgelegenen Tegut-Markt eingedeckt. Schließlich war die einzige Verpflegung, die es am Platz gab Pustekuchen. Ach nein, da gab es ja noch den Imbisswagen, der Würstchen, Brötchen , Kuchen und Getränke zum ambitionierten Preis vertickte.
+
+Nach der langen Pause mussten wir dann aber auch mal umziehen und zwar auf einen Platz am Main mit Campingplatzcharakter. Das Spiel gegen Aachen startete stark verzögert, wodurch wir ein intensives Warmmachprogramm absolvierten. Leider waren die Aachener, die wir letztes Jahr noch geschlagen hatten, aber eine Nummer zu groß für uns. Die spielten zu Beginn mit einem enorm hohen Tempo. Da wir durch die letzten, nicht ganz so ambitionierten Gegner in der Vorrunde etwas eingelullt waren, gerieten wir schnell in Rückstand. Mit zunehmender Spieldauer konnten wir jedoch eine Schippe drauf legen, unsere Taktik dem Gegner anpassen und das Spiel ausgeglichen gestalten. Um den Rückstand aufzuholen reichte es aber nicht mehr und so ging das Spiel mit 13:7 an Aachen, die im Line-Up meinten es wäre ihr bisher deutlich knappstes Spiel gewesen. Naja…
+
+Zurück am Unizentrum angekommen haben wir uns dem sanitären Luxus im von uns eröffneten Mixed-Duschrondell hingegeben und sind anschließend in die Innenstadt zur Weinstube des Bürgerspitals zwecks Nahrungsaufnahme gefahren. Die Atmosphäre im Teufelskeller dort war zwar ganz nett, doch das Möllersche Credo in Sachen Essen auf Turnieren wurde in punkto „viel“ leider teilweise stark verletzt. Das Essen wurde noch von Tobis Würzburg-Quiz als Nachtisch garniert. Eike hätte souverän den Sieg davon getragen, wäre er aufgrund von geratenen Zwischenrufen nicht so oft von Tobi gesperrt worden. Zum Glück bot die von Tobi geleitete Stadtführung dann noch die Möglichkeit ein Eis abzugreifen. Die Festung haben wir dann aber nicht mehr genommen, da wir zeitig ins Bett wollten und daher zum Zeltlager zurückgefahren sind (aber nicht ohne eine Runde um den Dom zu drehen und seltsame Teamfotos zu machen). Während Alex dort sein Matratzenproblem zu beheben versuchte haben wir als Betthupferl Bennys Partymix vernichtet, mmmhh lecker Wodka-Sahne-Mix! Eine Party gab es natürlich nicht, weil das ja Arbeit für den Veranstalter gewesen wäre, von einem Bierrace brauchen wir gar nicht erst reden. Das ist natürlich schon blöd, was soll man da im Line-Up sagen? Wir sehen uns im Finale klingt ja nicht immer realistisch…
+
+Der Morgen begann wieder mal früh, erstes Spiel 9:00. Da ja nicht mit Verpflegung zu rechnen war, haben wir trotz Ermahnungen der Mensafrauen wieder mal ein paar Extra-Brötchen geschmiert. Wer sagt denn, dass ich nicht fünf Brötchen zum Frühstück esse?
+
+Der Sonntagsmorgenstart war gegen Jena. Aufgrund des windigen, regnerischen, kalten Wetters versuchten wir es natürlich wieder mit einer Zonenverteidigung und zur Überraschung aller Jena auch. Die waren mit ihrer Vierer-Cup-Zone einfach effektiver, da bei uns die Anschlusspässe fehlten und so gewann Jena deutlich. Zum schlechten Wetter gesellte sich die schlechte Nachricht, dass Benny aufgrund von Knieproblemen nicht mehr mitspielen konnte. Dafür war der am Abend des Vortages nicht einsatztaugliche Christopher dank des Fitdopens aus Alex‘ Reiseapotheke wieder am Start. Die schwindende Anzahl an einsatzfähigen Spielern bei uns sah sich dann 17 Darmstädter Spielern entgegen. Da der Wind nun stark in Längsrichtung des Spielfeldes wehte, wurde die windbevorzugte Seite zum großen Vorteil. Dementsprechend wurde viel mit Zonendefenses gearbeitet. Die Darmstädter kamen leider auch gegen den Wind ganz gut durch und gewannen so dieses Spiel mit 11:4. Zum Abschluss des Turnieres ging es mit Marburg dann noch gegen einen sympatischen Gegner. Da wir auf dem gleichen Feld wie zuvor spielten, wurde der Wind wieder zum Helfer oder eigentlichen Gegner. Dass dies nach Zone schreit ist überflüssig zu erwähnen, wir spielten jedoch teilweise auch Manndeckung. Unkenrufen zufolge seien meine Hucks in diesem Spiel nicht ganz so überzeugend gewesen. Ich möchte jedoch zu meiner Verteidigung nochmal betonen, dass meine Hucks im Gegensatz zu denen anderer Spieler zumindest im Feld gelandet sind 😉 Nach einem eigentlich halbwegs ausgeglichenen Spiel mit zahlreichen Turnovers gewannen die Marburger letztendlich doch deutlich. Immerhin gab es das obligatorische Ständchen am Ende.
+
+Als Endergebnis haben wir den 16. Platz von 35 Teams belegt. Die traditionelle münsteraner Ergebniseffizienz muss ich wohl nicht erwähnen, schließlich haben wir am Sonntag kein einziges Spiel mehr gewonnen. Dies lag allerdings mit Sicherheit auch der steten Dezimierung unseres Kaders, die natürlich in den letzten Spielen den verbliebenen Akteuren noch mehr Kraft kostete. Die anderen Mannschaften hatten da meist schon noch ein paar mehr Leute zum Auswechseln. Insgesamt ist das Ergebnis aber doch echt erfreulich, auch wenn man dazu sagen muss, dass uns der gute Setzplatz vom letzten Jahr und Fortuna bei der Gruppenauslosung wohl etwas geholfen haben.
+
+Da es ja bisher keine offiziellen Nachrichten aus Würzburg gibt uns wir während des Finales abgehauen sind, kann man nur Mutmaßen, dass München die DHM gewonnen hat. Die spielten im Finale gegen die Göttinger, die schon sichtlich aus dem letzten Loch pfiffen. Der schwerste Gegner für die ausnahmslos maskulinen Münchner ab 1,80 auf der DHM war vermutlich Mainz, da dieses Team zwischendurch gegen die Bayern eine reine Damen-Line aufstellte, die sich zuvor ihrer Trikots entledigt hatte. Szeneapplaus war da natürlich garantiert. Den Punkt haben dann aber doch die Münchner gemacht.
+
+Auf der Rückfahrt mussten wir in Breuna dann uns einer laaangen Schlange vorm Tresen des BK entgegen sehen, was zu Verzögerungen im Zeitplan führte. Breuna ist eben doch nicht Wilnsdorf!
+
+Also trotz der mäßigen Organisation und des ebenso mäßigen Wetters war Würzburg eine Reise wert. Ich hoffe die kleinen Wehwehchen sind schon wieder auskuriert und dass sich noch Leute finden um weitere Turniere mit Indiscutabel zu spielen. Bisher steht da meines Wissens nur noch das Sommerglühen in diesem Sommer auf dem Programm und da geht doch sicher noch mehr, oder?
+
+Viele Grüße  
+Michi

@@ -1,0 +1,21 @@
+url: 'http://indiscutabel.de'
+baseurl: ''
+title: 'InDISCutabel'
+description: 'InDISCutabel - Ultimate Frisbee beim Hochschulsport in Münster'
+
+email: 'ob@indiscutabel.de'
+github: 'https://github.com/indiscutabel/'
+facebook: 'https://www.facebook.com/group.php?gid=118247871523860'
+
+#remote_theme: aspirethemes/type
+
+paginate: 5
+
+exclude: [README.md, CNAME, "Gemfile", "Gemfile.lock", "README.md", "Makefile", "wp-theme"]
+
+plugins:
+  - jekyll-paginate
+  # https://github.com/jekyll/jekyll-redirect-from
+  - jekyll-redirect-from
+  # https://github.com/jekyll/jekyll-sitemap
+  - jekyll-sitemap
