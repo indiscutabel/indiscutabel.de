@@ -2,7 +2,11 @@
 
 Webseite der Hochschulsportgruppe InDISCutabel, Uni Münster
 
-## Render
+## Docs
+
+[jekyllrb.com/](jekyllrb.com/)
+
+## Render locally
 
 ```bash
 bundle exec jekyll serve

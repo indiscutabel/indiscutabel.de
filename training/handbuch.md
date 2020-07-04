@@ -16,24 +16,6 @@ al2fb_facebook_nointegrate:
 ---
 [<img class="size-medium wp-image-1800 alignleft" alt="Monster_playbook" src="{{ site.url }}/public/uploads/2013/05/Monster_playbook-195x300.png" width="195" height="300"  />]({{ site.url }}/public/uploads/2013/05/Monster_playbook.png)
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
 Hier findet ihr (a) eine Software mit der ihr Spielzüge anschauen könnt ([Ultimate_Playbook]({{ site.url }}/public/uploads/2013/05/Ultimate_Playbook.zip)) und (b) viele, viele Taktiken:
 
 **Grundlagen im Aufbau**
@@ -161,9 +143,8 @@ Hier findet ihr (a) eine Software mit der ihr Spielzüge anschauen könnt ([Ulti
     <li>
       Under-cut
     </li>
+    <li>
+      Vertical Stack
+    </li>
   </ul>
-</div>
-
-<div>
-  Vertical Stack
 </div>

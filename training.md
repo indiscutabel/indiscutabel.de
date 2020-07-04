@@ -4,9 +4,6 @@ title: Training
 date: 2009-11-18T22:05:40+01:00
 author: china
 layout: page
-
-s2mail:
-  - 'no'
 ---
 # Mitmachen
 

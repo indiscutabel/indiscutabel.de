@@ -4,9 +4,6 @@ title: 'NKT &#8217;09'
 date: 2009-11-23T22:12:45+01:00
 author: china
 layout: page
-
-s2mail:
-  - 'no'
 ---
 # Nikolausturnier 2009
 

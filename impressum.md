@@ -4,9 +4,6 @@ title: Impressum
 date: 2009-11-18T22:05:18+01:00
 author: Shorty
 layout: page
-
-s2mail:
-  - 'no'
 ---
 # Ansprechperson
 
