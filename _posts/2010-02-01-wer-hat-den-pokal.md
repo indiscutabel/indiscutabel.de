@@ -42,4 +42,4 @@ Spiele auf Film verewigt hat, aber die letzten fünf Minuten des Finales wegen �
 
 Als Pokal gewannen wir dann eine Katze, vermutlich aus Messing, mit Sockel. Schon nach knapp zwei Minuten in unserem Besitz löste sich allerdings der Kleber, welcher die Katze am Sockel festhielt. So haben wir einen fragilen, aber dennoch ehrenvollen Pokal mit nach Münster genommen. Wir wollten uns mal mit dem DM-Team etwas einspielen und wenn man sich den Verlauf unserer Spielstärke im Laufe des Turniers beobachtet hat, hat dies auch einiges gebracht. Zuerst haben wir ganz schön holprig angefangen und am Ende nen direkten Konkurrenten in der C-Reli geschlagen, wenn auch aüßerst knapp.
 
-Gruß Michi<span style="color: #888888"><br /> </span>
+Gruß Michi

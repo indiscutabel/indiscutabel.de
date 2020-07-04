@@ -22,9 +22,9 @@ Habt ihr auch Fotos? Hinterlasst einen Kommentar, hier oder auf [Facebook](https
 
 **Ergebnisse**
 
-  1. <a class="profileLink" href="https://www.facebook.com/Seans-Sheep-317315541628100/" data-hovercard="/ajax/hovercard/page.php?id=317315541628100">Sean&#8217;s Sheep</a>
-  2. <a class="profileLink" href="https://www.facebook.com/caracalswutal/" data-hovercard="/ajax/hovercard/page.php?id=547008335482210">Caracals Wuppertal</a>
-  3. <span class="text_exposed_show"><a class="profileLink" href="https://www.facebook.com/FrizzlyBearsUltimateFrisbee/" data-hovercard="/ajax/hovercard/page.php?id=622124697873617">Frizzly Bears</a></span>
+  1. Sean&#8217;s Sheep
+  2. Caracals Wuppertal
+  3. Frizzly Bears
   4. Ultimate Greenhorns
   5. Rot Pot
   6. SNOWmotion

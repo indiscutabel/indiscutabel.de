@@ -58,7 +58,7 @@ tags:
 </div>
 
 <div>
-  <span style="color: #0000ee;"><span style="text-decoration: underline;"><br /> </span></span>Nach der Siegerehrung und einer (leider kalten) Dusche ging es auch schon wieder auf den Heimweg. Wir können auf ein sehr schönes und für mich vor allem auch sehr lehrreiches Turnier zurückblicken. Sogar alle Vorkehrungen vor dem angekündigten Regen waren überflüssig und der Wettergott war uns gewogen um das Turnier auch in dieser Hinsicht noch abzurunden. Danke an Bremen für die Ausrichtung des Turniers und danke, liebe Indis, dass ihr mich so gut in euer Team aufgenommen habt.
+  Nach der Siegerehrung und einer (leider kalten) Dusche ging es auch schon wieder auf den Heimweg. Wir können auf ein sehr schönes und für mich vor allem auch sehr lehrreiches Turnier zurückblicken. Sogar alle Vorkehrungen vor dem angekündigten Regen waren überflüssig und der Wettergott war uns gewogen um das Turnier auch in dieser Hinsicht noch abzurunden. Danke an Bremen für die Ausrichtung des Turniers und danke, liebe Indis, dass ihr mich so gut in euer Team aufgenommen habt.
 </div>
 
 <div>

@@ -6,7 +6,9 @@ author: Simon
 layout: page
 
 ---
-[<img class="wp-image-3612 alignleft" src="{{ site.url }}/public/uploads/2017/04/FKT-Logo-2017.png" alt="" width="233" height="233" ></span> Gespielt wurde auf 4 Feldern mit ca. 250 aktiven Spielern. Wir danken allen Teams für ihr Kommen und das tolle Turnier und freuen uns schon auf nächstes Jahr.
+<img class="wp-image-3612 alignleft" src="{{ site.url }}/public/uploads/2017/04/FKT-Logo-2017.png" alt="" width="233" height="233" />
+
+Gespielt wurde auf 4 Feldern mit ca. 250 aktiven Spielern. Wir danken allen Teams für ihr Kommen und das tolle Turnier und freuen uns schon auf nächstes Jahr.
 
 Ein großer Dank gilt unseren Sponsoren und Unterstützern <a href="http://liba-trinken.de/" target="_blank" rel="noopener">liba kola</a>, dem <a href="http://www.superbiomarkt.com/unsere-maerkte/superbiomarkt-muenster-kreuzviertel/" target="_blank" rel="noopener">SuperBIOmarkt Münster-Kreuzviertel</a>, <a href="https://www.konifez.de/" target="_blank" rel="noopener">Konifez</a> und <a href="http://www.fiveultimate.com/" target="_blank" rel="noopener">FIVE Ultimate</a>.
 
